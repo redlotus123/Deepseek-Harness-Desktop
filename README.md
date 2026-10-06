@@ -1,5 +1,6 @@
 # Deepseek-Harness-Desktop
 deepseekharness桌面版,双击桌面图标，即可打开网页，不需要在cmd输入指令
+需要你自己下载node.js
 
 一、怎么用
 1. 把整个文件夹（含 runtime 子文件夹）解压到任意目录，注意：Dsh桌面版.exe 必须和 runtime 文件夹、config.json 放在同一目录，不要单独把 exe 拷走。
