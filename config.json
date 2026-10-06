@@ -1,0 +1,6 @@
+{
+  "port": 3080,
+  "workspace": "",
+  "browser": "edge",
+  "startupTimeoutSec": 60
+}
